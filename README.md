@@ -1,2 +1,2 @@
 # Data-API-Pipeline
-Extract metabolites data from MetanetX using Sparql queries
+Extracting metabolites data from MetanetX using Sparql queries, Streamlit interface
